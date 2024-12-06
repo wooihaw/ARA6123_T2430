@@ -1,2 +1,2 @@
-# ERA3036_T2310
-Sample code for ERA3036 (T2310)
+# ARA6123_T2430
+Examples and exercises for ARA6123 (T2430)
